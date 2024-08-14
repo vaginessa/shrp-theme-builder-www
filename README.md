@@ -2,7 +2,7 @@
     <img alt="shrp logo" src="./static/shrp-logo.png" />
 </p>
 
-# shrp-theme-builder
+# shrp-theme-builderr
 
 Pre-install:
 
